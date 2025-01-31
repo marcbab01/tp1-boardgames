@@ -20,3 +20,4 @@ class client {
         echo "Congratulations {$this->firstName}, on joining our wonderful community! We bid you our warmest welcome.";
     }
 }
+
